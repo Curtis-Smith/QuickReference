@@ -1,10 +1,9 @@
-# Markdown
+## Markdown
 
-## Quick look
+#### Quick look
 
 
-## Links
+#### Links
 
-[GitHub](https://guides.github.com/features/mastering-markdown/)
-
-[WordPress](https://guides.github.com/features/mastering-markdown/)
+-[GitHub](https://guides.github.com/features/mastering-markdown/)
+-[WordPress](https://guides.github.com/features/mastering-markdown/)
