@@ -3,7 +3,7 @@
 #### Quick look
 
 
-#### Links
+#### Sources
 
 - [GitHub](https://guides.github.com/features/mastering-markdown/)
-- [WordPress](https://guides.github.com/features/mastering-markdown/)
+- [WordPress](https://en.support.wordpress.com/markdown-quick-reference/)
