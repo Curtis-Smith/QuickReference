@@ -2,10 +2,10 @@
 File extension
 : .md or .markdown
 
-  | Syntax
+category | syntax | output
 --- | ---
-link | `[Text](url)`
-link - image | `![Text](url)`
+link | `[Text](url)` | tk
+link - image | `![Text](url)` | tk
 
 ##### More Info
 
