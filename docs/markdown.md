@@ -1,9 +1,12 @@
-## Markdown
+### Markdown
+File extension
+: .md or .markdown
 
-#### Quick look
+-------------- | --------------
+link | [Text](url)
+link - image | ![Text](url)
 
-
-#### Sources
+##### More Info
 
 - [GitHub](https://guides.github.com/features/mastering-markdown/)
 - [WordPress](https://en.support.wordpress.com/markdown-quick-reference/)
