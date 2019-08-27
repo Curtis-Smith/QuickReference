@@ -36,7 +36,7 @@
 
 #### Useful Variations
 - git push --set-upstream origin [branch]
-
+- git log --oneline --decorate --graph --all
 
 #### More Info/Cheat Sheets
 - [git-scm](git-scm.com/doc)
