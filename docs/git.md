@@ -1,4 +1,5 @@
 ## git
+#### Basics
 - git init
   - initialize current directory as a repo
 - git init [project-name]
@@ -32,6 +33,10 @@
 - git status
 - git log
 - git diff
+
+#### Useful Variations
+- git push --set-upstream origin new-subject
+
 
 #### More Info/Cheat Sheets
 - [git-scm](git-scm.com/doc)
