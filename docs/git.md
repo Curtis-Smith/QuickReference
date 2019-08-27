@@ -35,7 +35,7 @@
 - git diff
 
 #### Useful Variations
-- git push --set-upstream origin new-subject
+- git push --set-upstream origin [branch]
 
 
 #### More Info/Cheat Sheets
