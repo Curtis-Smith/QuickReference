@@ -30,7 +30,7 @@ or
 #### Link - Image
 ```
 ![Alt Text]()
-![aceLink](/images/playingCards/ace_heart.png)
+![aceLink](/images/ace_heart.png)
 ```
 
 #### Table (GitHub)
@@ -38,13 +38,13 @@ or
 category | syntax | example | output
 --- | --- | --- | ---
 link | `[Text](url)` | `[link to this doc](/docs/markdown.md)` | [link to this doc](/docs/markdown.md)
-link - image | `![Text](url)` | `![aceLink](/images/playingCards/ace_heart.png)` | ![aceLink](/images/playingCards/ace_heart.png)
+link - image | `![Text](url)` | `![aceLink](/images/playingCards/ace_heart.png)` | ![aceLink](/images/ace_heart.png)
 ```
 
 category | syntax | example | output
 --- | --- | --- | ---
 link | `[Text](url)` | `[link to this doc](/docs/markdown.md)` | [link to this doc](/docs/markdown.md)
-link - image | `![Text](url)` | `![aceLink](/images/playingCards/ace_heart.png)` | ![aceLink](/images/playingCards/ace_heart.png)
+link - image | `![Text](url)` | `![aceLink](/images/playingCards/ace_heart.png)` | ![aceLink](/images/ace_heart.png)
 
 ### File extension
 .md or .markdown
