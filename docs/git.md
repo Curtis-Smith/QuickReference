@@ -38,6 +38,9 @@
 - git push --set-upstream origin [branch]
 - git log --oneline --decorate --graph --all
 
+#### .gitignore
+- [github repo](https://github.com/github/gitignore)
+
 #### More Info/Cheat Sheets
 - [git-scm](git-scm.com/doc)
 - [github](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
