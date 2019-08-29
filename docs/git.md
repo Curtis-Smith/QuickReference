@@ -39,6 +39,10 @@
 - git log --oneline --decorate --graph --all
 
 #### .gitignore
+- git config --global core.excludesfile
+  - look up global exclusion file
+- git config --global core.excludesfile [filepath]
+  - set global exclusion file
 - [github repo](https://github.com/github/gitignore)
 
 #### More Info/Cheat Sheets
