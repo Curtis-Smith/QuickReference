@@ -41,6 +41,7 @@
 - git log --oneline --decorate --graph --all
 - git diff <masterbranch_path> <remotebranch_path>
   - may need to fetch first
+  - remember to remove "remotes/" from remotebranch
 
 #### .gitignore
 - git config --global core.excludesfile
