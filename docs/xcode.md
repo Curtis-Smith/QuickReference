@@ -1,6 +1,6 @@
 ## Xcode
 #### Tips/Tricks
-##### [Change default file header text](/xcode/defaultFileHeader.md)
+##### [Change default file header text](/docs/xcode/defaultFileHeader.md)
 - Location, plist entru, formatting, etc.
 
 #### Troubleshooting
