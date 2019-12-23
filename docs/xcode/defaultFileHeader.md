@@ -4,7 +4,7 @@
 #### Text Macros
 #### Example
 #### References
-- Apple
+- [Apple](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/)
   - [Customize Text Macros](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev91a7a31fc)
   - [Text Macros Reference](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0)
   - [Text Macro Format](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/devc8a500cb9)
