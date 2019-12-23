@@ -29,7 +29,11 @@
 - ln -s
   - create sym link
 
-#### Find
+#### Backup
+- rsync [source] [destination]
+  - -r recursive into directories 
+  - -v verbose 
+  - -E copy extended attributes 
 
 #### Permisions
 - chmod
