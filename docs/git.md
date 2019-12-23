@@ -20,6 +20,8 @@
   - download commits from remote
 - git branch
   - list branches in repo
+- git branch -a
+  - list branches (local and remote)
 - git branch [branch]
   - create new branch
 - git branch -d [branch]
@@ -37,6 +39,8 @@
 #### Useful Variations
 - git push --set-upstream origin [branch]
 - git log --oneline --decorate --graph --all
+- git diff <masterbranch_path> <remotebranch_path>
+  - may need to fetch first
 
 #### .gitignore
 - git config --global core.excludesfile
