@@ -1,11 +1,13 @@
 ## git
 #### Basics
+##### Create Repository
 - git init
   - initialize current directory as a repo
 - git init [project-name]
   - create a local repository with directory named [project-name]
 - git clone [url]
   - download repository and version history
+##### Manage Changes
 - git add [file]
 - git add .
   - stage file/files
@@ -18,6 +20,10 @@
   - if [branch] does not exist in [remote], [branch] will be created
 - git pull
   - download commits from remote
+- git status
+- git log
+- git diff
+##### Branching
 - git branch
   - list branches in repo
 - git branch -a
@@ -32,9 +38,6 @@
   - create and checkout a new branch named [branch]
 - git merge [branch]
   - merge [branch] into current branch
-- git status
-- git log
-- git diff
 
 #### Useful Variations
 - git push --set-upstream origin [branch]
@@ -51,7 +54,7 @@
 - [github repo](https://github.com/github/gitignore)
 
 #### More Info/Cheat Sheets
-- [git-scm](git-scm.com/doc)
 - [github](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [github](https://education.github.com/git-cheat-sheet-education.pdf)
 - [atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+- [git-scm](git-scm.com/doc)
