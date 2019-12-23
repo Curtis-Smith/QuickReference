@@ -3,7 +3,7 @@
 1. Create plist file
     * Filename
       * IDETemplateMacros.plist
-    * Locations
+    * Locations (in seacrch order)
       * <ProjectName>.xcodeproj/xcuserdata/[username].xcuserdatad/IDETemplateMacros.plist.
       * <ProjectName>.xcodeproj/xcshareddata/IDETemplateMacros.plist
       * <WorkspaceName>.xcworkspace/xcuserdata/[username].xcuserdatad/IDETemplateMacros.plist.
