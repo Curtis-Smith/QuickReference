@@ -12,7 +12,8 @@
 1. Create the text macro
     * Text macro must be surrounded by three underscores on each side
     * Currently, "//" is automatically added to the beginning of the text macro when implemented
-    * Leave the first line empty to accomodate the initial "//" 
+      * Leave the first line empty to accomodate the initial "//" 
+      * Condider using "///" for all lines with the exception of the first which should have a single "/" before optional text, which will apply documentation markup styling
 1. Add new plist entry
     * Name the entry FILEHEADER
     * Set the type to String
@@ -46,6 +47,14 @@ or
 // ___FILENAME___
 // Created by ___FULLUSERNAME___, on ___DATE___
 // ___COPYRIGHT___
+```
+or
+```
+/
+/// ___PACKAGENAME___
+/// ___FILENAME___
+/// Created by ___FULLUSERNAME___, on ___DATE___
+/// ___COPYRIGHT___
 ```
 #### References
 - [Apple](https://help.apple.com/xcode/mac/9.0/index.html)
