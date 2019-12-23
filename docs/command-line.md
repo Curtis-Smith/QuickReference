@@ -30,8 +30,16 @@
   - create sym link
 
 #### Backup
-- rsync [source] [destination]
-  - -r recursive into directories 
+- rsync -avE [source] [destination]
+  - -a archive mode; same as -rlptgoD (no -H)
+    - -r recurse into directories
+    - -l copy symlinks as symlinks
+    - -p preserve permisions
+    - -t preserve times
+    - -g preserve group
+    - -o preserve owner
+    - -D preserve device files (super-user only), preserve special files
+    - (no -H) do not preserve hard links
   - -v verbose 
   - -E copy extended attributes 
 
